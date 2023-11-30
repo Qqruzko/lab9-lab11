@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Labs\Lab9\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Lenovo\Desktop\Labs\Lab9\Lab11\bin\Debug\Lab11.exe
+C:\Users\Lenovo\Desktop\Labs\Lab9\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Lenovo\Desktop\Labs\Lab9\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Labs\Lab9\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Labs\Lab9\Lab11\obj\Debug\Lab11.exe
+C:\Users\Lenovo\Desktop\Labs\Lab9\Lab11\obj\Debug\Lab11.pdb
